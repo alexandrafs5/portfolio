@@ -90,3 +90,40 @@ a{
     padding-right: 16px;
     border-radius: 12px;
 }
+
+.skills {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.title-skills {
+    padding: 50px;
+    padding-bottom: 25px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #2B332D;
+}
+
+.container-skills {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.group-skills {
+    max-width: 200px;
+}
+
+.images-skills {
+    width: 140px;
+    height: 150px;
+    padding-bottom: 16px;
+}
+
+.text-skills {
+    padding: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #41664B;
+}
