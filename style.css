@@ -209,3 +209,57 @@ a:hover {
     font-size: 14px;
     color: #333333;
 }
+
+/* CONTACT */
+
+.contact {
+  background-color: #41664B;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.contact-title {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #FFFFFF;
+  margin-bottom: 40px;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.contact-links a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 20px;
+  color: #E5E7EB;
+  text-decoration: none;
+  background-color: #37B859;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.contact-links a:hover {
+  background-color: #2C9B49;
+}
+
+.contact-links img {
+  width: 28px;
+  height: 28px;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: #2B332D;
+  color: #E5E7EB;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+}
