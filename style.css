@@ -149,7 +149,7 @@ a:hover {
 .images-projects {
     max-width: 400px;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .text-projects {
@@ -160,7 +160,7 @@ a:hover {
     text-align: justify;
     background-color: #FFFFFF;
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     flex: 1;
     min-width: 300px;
     max-width: 700px;
@@ -183,7 +183,7 @@ a:hover {
 .projects-title {
     padding-bottom: 8px;
     font-size: 24px;
-     font-weight: 700;
+    font-weight: 700;
     color: #2B332D;
 }
 
@@ -202,7 +202,7 @@ a:hover {
 
 .projects-devices {
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     background-color: #F9F9F9;
     padding: 8px 12px;
     max-width: fit-content;
@@ -213,53 +213,53 @@ a:hover {
 /* CONTACT */
 
 .contact {
-  background-color: #41664B;
-  padding: 80px 0;
-  text-align: center;
+    background-color: #41664B;
+    padding: 80px 0;
+    text-align: center;
 }
 
 .contact-title {
-  font-size: 36px;
-  font-weight: bolder;
-  color: #FFFFFF;
-  margin-bottom: 40px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #FFFFFF;
+    margin-bottom: 40px;
 }
 
 .contact-links {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
 }
 
 .contact-links a {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  font-size: 20px;
-  color: #E5E7EB;
-  text-decoration: none;
-  background-color: #37B859;
-  padding: 10px 20px;
-  border-radius: 8px;
-  transition: background-color 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 20px;
+    color: #E5E7EB;
+    text-decoration: none;
+    background-color: #37B859;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
 }
 
 .contact-links a:hover {
-  background-color: #2C9B49;
+    background-color: #2C9B49;
 }
 
 .contact-links img {
-  width: 28px;
-  height: 28px;
+    width: 28px;
+    height: 28px;
 }
 
 /* FOOTER */
 
 .footer {
-  background-color: #2B332D;
-  color: #E5E7EB;
-  text-align: center;
-  padding: 20px 0;
-  font-size: 14px;
+    background-color: #2B332D;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
 }
